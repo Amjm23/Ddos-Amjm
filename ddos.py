@@ -138,7 +138,7 @@ launch = f"""
  ░       ░
     {cyan}( {red}*** {green}CREATED BY {blue}Amjm {green}Coded by {green}YasinBm {red}| {red}@{blue}Hj_Amir3 | {yellow}Amjm DDoS | {red}@{magenta}Amjm_DDoS{red} ***{cyan} )
     {yellow}╔══════════════════════════════════════════════════════════════════════════════╗
-    {yellow}║                              {magenta}DDoS-Kill{yellow}                                       ║
+    {yellow}║                              {magenta}Amjm_DDoS{yellow}                                       ║
     {yellow}║ {yellow}                                                                             ║
     {yellow}║               {green}Launch {red}: {yellow}Linux {red}:{yellow} python3 ddos.py {red}<{blue}options{red}> {yellow}                    ║
     {yellow}║               {green}Launch {red}: {yellow}Windows {red}: {yellow}python ddos.py {red}<{blue}options{red}>{yellow}                    ║
